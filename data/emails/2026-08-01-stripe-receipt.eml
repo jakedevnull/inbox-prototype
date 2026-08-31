@@ -1,0 +1,64 @@
+From: "Stripe" <receipts@stripe.com>
+To: "Nora Hale" <nora@halestudio.co>
+Subject: Your receipt from Linear [#1842]
+Date: Sat, 01 Aug 2026 09:04:11 +0000
+Message-ID: <ch_3Q8kHaleStudio01@stripe.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="mixed_37_mtgpas7l"
+
+--mixed_37_mtgpas7l
+Content-Type: multipart/alternative; boundary="alt_38_mtgpas7l"
+
+--alt_38_mtgpas7l
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Linear Business =E2=80=94 $49.00 USD
+Paid August 1, 2026
+Visa ending 4242
+Receipt ID: ch_3Q8kHaleStudio01
+
+A PDF copy of this receipt is attached.
+
+Stripe, Inc.
+
+--alt_38_mtgpas7l
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;background:#f6f9fc;padding:32px;">
+  <div style=3D"max-width:480px;margin:0 auto;background:#fff;border-radius:8px;padding:32px;color:#0a2540;">
+    <p style=3D"font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#687078;">Receipt</p>
+    <h1 style=3D"font-size:28px;margin:8px 0 24px;">$49.00</h1>
+    <table style=3D"width:100%;font-size:14px;border-collapse:collapse;">
+      <tr><td style=3D"padding:8px 0;color:#687078;">Merchant</td><td style=3D"text-align:right;">Linear</td></tr>
+      <tr><td style=3D"padding:8px 0;color:#687078;">Date</td><td style=3D"text-align:right;">Aug 1, 2026</td></tr>
+      <tr><td style=3D"padding:8px 0;color:#687078;">Payment</td><td style=3D"text-align:right;">Visa 4242</td></tr>
+      <tr><td style=3D"padding:8px 0;color:#687078;">Receipt</td><td style=3D"text-align:right;">ch_3Q8kHaleStudio01</td></tr>
+    </table>
+    <p style=3D"margin-top:24px;font-size:13px;color:#687078;">A PDF copy is attached.</p>
+  </div>
+</div>
+--alt_38_mtgpas7l--
+--mixed_37_mtgpas7l
+Content-Type: application/pdf; name="receipt-ch_3Q8kHaleStudio01.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="receipt-ch_3Q8kHaleStudio01.pdf"
+
+JVBERi0xLjQKMSAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZyAvUGFnZXMgMiAwIFIgPj4KZW5kb2Jq
+CjIgMCBvYmoKPDwgL1R5cGUgL1BhZ2VzIC9LaWRzIFszIDAgUl0gL0NvdW50IDEgPj4KZW5kb2Jq
+CjMgMCBvYmoKPDwgL1R5cGUgL1BhZ2UgL1BhcmVudCAyIDAgUiAvTWVkaWFCb3ggWzAgMCA2MTIg
+NzkyXSAvQ29udGVudHMgNCAwIFIgL1Jlc291cmNlcyA8PCAvRm9udCA8PCAvRjEgNSAwIFIgPj4g
+Pj4gPj4KZW5kb2JqCjQgMCBvYmoKPDwgL0xlbmd0aCAzMDggPj4Kc3RyZWFtCkJUCi9GMSAyMCBU
+Zgo3MiA3MjAgVGQKKFJlY2VpcHQgwrcgU3RyaXBlKSBUagovRjEgMTEgVGYKMCAtMjggVGQKKEhh
+bGUgU3R1ZGlvICAtICBOb3JhIEhhbGUpIFRqCjAgLTE2IFRkCihEYXRlOiBBdWd1c3QgMSwgMjAy
+NikgVGoKMCAtMTYgVGQKKEFtb3VudDogJDQ5LjAwIFVTRCkgVGoKMCAtMTYgVGQKKERlc2NyaXB0
+aW9uOiBMaW5lYXIgQnVzaW5lc3MgIC0gIG1vbnRobHkpIFRqCjAgLTE2IFRkCihQYXltZW50OiBW
+aXNhIDQyNDIpIFRqCjAgLTE2IFRkCihSZWNlaXB0IElEOiBjaF8zUThrSGFsZVN0dWRpbzAxKSBU
+agowIC0xNiBUZApFVAplbmRzdHJlYW0KZW5kb2JqCjUgMCBvYmoKPDwgL1R5cGUgL0ZvbnQgL1N1
+YnR5cGUgL1R5cGUxIC9CYXNlRm9udCAvSGVsdmV0aWNhID4+CmVuZG9iagp4cmVmCjAgNgowMDAw
+MDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMDkgMDAwMDAgbiAKMDAwMDAwMDA1OCAwMDAwMCBuIAow
+MDAwMDAwMTE1IDAwMDAwIG4gCjAwMDAwMDAyNDEgMDAwMDAgbiAKMDAwMDAwMDYwMCAwMDAwMCBu
+IAp0cmFpbGVyCjw8IC9TaXplIDYgL1Jvb3QgMSAwIFIgPj4Kc3RhcnR4cmVmCjY3MAolJUVPRgo=
+
+--mixed_37_mtgpas7l--

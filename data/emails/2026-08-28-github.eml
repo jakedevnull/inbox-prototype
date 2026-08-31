@@ -1,0 +1,21 @@
+From: "Jordan Park" <notifications@github.com>
+To: "Nora Hale" <nora@halestudio.co>
+Subject: [halestudio/proto-mail] Reading pane: block remote images by default (#184)
+Date: Fri, 28 Aug 2026 18:33:09 +0000
+Message-ID: <proto-mail/184/issue@github.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Jordan Park opened an issue
+
+halestudio/proto-mail #184
+
+Reading pane: block remote images by default
+
+Newsletters will try to load tracking pixels. Default should be blocked,
+with an explicit "Load remote images" control on the message.
+
+=E2=80=94 
+Reply to this email directly or view it on GitHub.
+

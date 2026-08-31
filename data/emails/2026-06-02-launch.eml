@@ -1,0 +1,42 @@
+From: "Nora Hale" <nora@halestudio.co>
+To: "Maya Chen" <maya@halestudio.co>, "Jordan Park" <jordan@halestudio.co>, "Alex Rivera" <alex@halestudio.co>, "Priya Shah" <priya@halestudio.co>, "Tom Ellison" <tom@halestudio.co>
+Subject: =?UTF-8?B?djAuOSB3ZW50IG91dCDigJQgcmVjYXAgYW5kIHRoZSBob2xlcw==?=
+Date: Tue, 02 Jun 2026 18:00:00 +0000
+Message-ID: <launch-01@halestudio.co>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="alt_26_mtgpas7k"
+
+--alt_26_mtgpas7k
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We shipped v0.9 to the private list at noon.
+
+What worked: first-open time, the three-pane density, search feeling instant.
+
+What's still a hole:
+- CID images 404 on two newsletters
+- Thread expand doesn't restore scroll
+- PDF attachments don't show size
+
+Please reply in-thread. I don't want a new subject for each hole.
+
+Nora
+
+--alt_26_mtgpas7k
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Georgia,serif;color:#1c1916;line-height:1.6;">
+  <p>We shipped <strong>v0.9</strong> to the private list at noon.</p>
+  <p>What worked: first-open time, the three-pane density, search feeling instant.</p>
+  <p>What's still a hole:</p>
+  <ul>
+    <li>CID images 404 on two newsletters</li>
+    <li>Thread expand doesn't restore scroll</li>
+    <li>PDF attachments don't show size</li>
+  </ul>
+  <p>Please reply in-thread. I don't want a new subject for each hole.</p>
+  <p>Nora</p>
+</div>
+--alt_26_mtgpas7k--

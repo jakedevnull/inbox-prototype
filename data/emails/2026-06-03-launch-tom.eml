@@ -1,0 +1,17 @@
+From: "Tom Ellison" <tom@halestudio.co>
+To: "Nora Hale" <nora@halestudio.co>, "Priya Shah" <priya@halestudio.co>, "Maya Chen" <maya@halestudio.co>, "Jordan Park" <jordan@halestudio.co>, "Alex Rivera" <alex@halestudio.co>
+Subject: =?UTF-8?B?UmU6IHYwLjkgd2VudCBvdXQg4oCUIHJlY2FwIGFuZCB0aGUgaG9sZXM=?=
+Date: Wed, 03 Jun 2026 13:08:00 +0000
+Message-ID: <launch-03@halestudio.co>
+MIME-Version: 1.0
+In-Reply-To: <launch-02@halestudio.co>
+References: <launch-01@halestudio.co> <launch-02@halestudio.co>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+PDF size is a one-liner =E2=80=94 we weren't reading the parsed size field. Will land with Priya's CID fix.
+
+The private list loved the gold unread dots, for whatever that's worth.
+
+Tom
+

@@ -1,0 +1,23 @@
+From: "Nia at Fastmail" <support@fastmail.com>
+To: "Nora Hale" <nora@halestudio.co>
+Subject: Re: IMAP flags not sticking on proto-mail import
+Date: Thu, 18 Jun 2026 15:55:00 +0000
+Message-ID: <fm-ticket-9912-2@fastmail.com>
+MIME-Version: 1.0
+In-Reply-To: <fm-ticket-9912-1@halestudio.co>
+References: <fm-ticket-9912-1@halestudio.co>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Nora,
+
+Thanks for the headers. The \Seen flags were being stripped because the
+importer was rewriting Message-ID. We've patched staging; your next import
+should keep read state.
+
+If you're using a local-only reader, storing unread in localStorage is
+honest =E2=80=94 just don't pretend it's sync.
+
+=E2=80=94 Nia
+Fastmail Support
+

@@ -1,0 +1,33 @@
+From: "Linear" <changelog@linear.app>
+To: "Nora Hale" <nora@halestudio.co>
+Subject: Changelog: cycles, estimates, and a faster command menu
+Date: Wed, 12 Aug 2026 17:00:00 +0000
+Message-ID: <changelog-2026-08-12@linear.app>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="alt_53_mtgpas7l"
+
+--alt_53_mtgpas7l
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Linear Changelog
+
+Cycles now roll automatically at midnight in your workspace timezone.
+Estimates can be pointed in Fibonacci or a custom scale.
+The command menu opens 40ms faster. You will feel it.
+
+Read the post: https://linear.app/changelog
+
+--alt_53_mtgpas7l
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Inter,Helvetica,sans-serif;background:#0d0d0d;color:#e6e6e6;padding:48px 24px;">
+  <div style=3D"max-width:520px;margin:0 auto;">
+    <p style=3D"font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#8a8a8a;">Changelog</p>
+    <h1 style=3D"font-weight:500;font-size:28px;color:#fff;">Cycles, estimates, a faster command menu</h1>
+    <p style=3D"line-height:1.6;color:#c8c8c8;">Cycles now roll automatically at midnight in your workspace timezone. Estimates can be pointed in Fibonacci or a custom scale. The command menu opens 40ms faster. You will feel it.</p>
+    <p><a href=3D"https://linear.app/changelog" style=3D"color:#5e6ad2;">Read the post</a></p>
+  </div>
+</div>
+--alt_53_mtgpas7l--

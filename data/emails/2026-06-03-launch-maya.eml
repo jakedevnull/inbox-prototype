@@ -1,0 +1,27 @@
+From: "Maya Chen" <maya@halestudio.co>
+To: "Nora Hale" <nora@halestudio.co>, "Tom Ellison" <tom@halestudio.co>, "Priya Shah" <priya@halestudio.co>, "Jordan Park" <jordan@halestudio.co>, "Alex Rivera" <alex@halestudio.co>
+Subject: =?UTF-8?B?UmU6IHYwLjkgd2VudCBvdXQg4oCUIHJlY2FwIGFuZCB0aGUgaG9sZXM=?=
+Date: Wed, 03 Jun 2026 20:44:00 +0000
+Message-ID: <launch-04@halestudio.co>
+MIME-Version: 1.0
+In-Reply-To: <launch-03@halestudio.co>
+References: <launch-01@halestudio.co> <launch-02@halestudio.co> <launch-03@halestudio.co>
+Content-Type: multipart/alternative; boundary="alt_35_mtgpas7l"
+
+--alt_35_mtgpas7l
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thread scroll is a layout bug in the list virtualizer. I have a reproduction with the design-system thread (5 deep). Fix tomorrow morning.
+
+Maya
+
+--alt_35_mtgpas7l
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Georgia,serif;color:#1c1916;line-height:1.55;">
+  <p>Thread scroll is a layout bug in the list virtualizer. I have a reproduction with the design-system thread (5 deep). Fix tomorrow morning.</p>
+  <p>Maya</p>
+</div>
+--alt_35_mtgpas7l--
